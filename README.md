@@ -1,4 +1,7 @@
 # MoodTrack – Emotion Detection With CNN
+## Screenshot
+
+![MoodTrack Emotion Detection](emoition_detection.png)
 
 MoodTrack is an emotion detection project that uses **Convolutional Neural Networks (CNN)** and **computer vision** to recognize human facial expressions from images or a camera feed.
 
